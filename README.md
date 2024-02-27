@@ -9,6 +9,5 @@ Método     Ruta
 - DELETE  /contacto/{id} Borrar un contacto.
 
 Sustituir el virtualhost por el que vayas a usar en la API.
-Dentro de React para que funcione, tienes que seguir las intrucciones para levantar el proyecto descrito en el README de React.
 
 Cualquier duda, contáctame!
