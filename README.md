@@ -10,4 +10,6 @@ Método     Ruta
 
 Sustituir el virtualhost por el que vayas a usar en la API.
 
+Se incluye la base de datos para probarlo.
+
 Cualquier duda, contáctame!
